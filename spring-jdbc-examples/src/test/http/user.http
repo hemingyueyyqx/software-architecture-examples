@@ -1,0 +1,5 @@
+GET http://localhost:8080/api/user/addresses
+uid: 1315944192462041088
+role: Sj08
+###
+GET http://localhost:8080/api/user/addresses

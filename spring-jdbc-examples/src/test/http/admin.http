@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/admin/users/1315915041734668288
+uid: 1315915041734668288
+role: Js09
+###
+GET http://localhost:8080/api/admin/users/1315915041734668288
+role: Sj08
+uid: 1315944192462041088
